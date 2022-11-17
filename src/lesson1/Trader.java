@@ -19,6 +19,7 @@ public class Trader {
         return city;
     }
 
+
     @Override
     public String toString() {
         return "Trader{" +
